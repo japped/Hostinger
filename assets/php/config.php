@@ -18,4 +18,4 @@ define("DIR_HOME", "/home/bots/");
 define("DIR_USER", DIR_HOME . "user/");
 
 $MAINTENANCE = array("wiki");
-$SITE_KEY = "weoihfioewhfoiew";
+$SITE_KEY = "6LcpG-gZAAAAAFkGZRiNCuCHl9kWGgDZDJaYprPL";
